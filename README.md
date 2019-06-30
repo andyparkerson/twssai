@@ -1,4 +1,4 @@
-# twssai
+# TWTSAI
 TWTS Artificial Intelligence
 
 That's What They Said Artificial Intelligence is a project to explore machine learning and artificial intelligence through the use of bad jokes.
